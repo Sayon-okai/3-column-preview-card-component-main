@@ -15,7 +15,6 @@ This is a solution to the [3-column preview card component challenge on Frontend
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -31,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/responsive-social-media-card-using-css-flexbox-PjfYFAZoQb]
+- Solution URL: [https://www.frontendmentor.io/solutions/3columnpreviewcardcomponent-using-css-grid-OWpUyNvTly]
 - Live Site URL: [https://sayon-okai.github.io/3-column-preview-card-component-main/]
 
 ## My process
